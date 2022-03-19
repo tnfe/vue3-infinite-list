@@ -22,19 +22,19 @@ see full examples on this [demo](https://tnfe.github.io/vue-infinite-list).
 ### Using [npm](https://www.npmjs.com/):
 
 ```
-npm install vue-infinite-list --save
+npm install vue3-infinite-list --save
 ```
 
 ### Using [yarn](https://yarnpkg.com/):
 
 ```
-yarn add vue-infinite-list --save
+yarn add vue3-infinite-list
 ```
 
 ### Import vue Infinite list module into your app module
 
 ```js
-import { InfiniteListModule } from 'vue-infinite-list';
+import InfiniteList from 'vue3-infinite-list';
 
 ```
 

@@ -21,19 +21,19 @@
 ### 使用 [npm](https://www.npmjs.com/):
 
 ```
-npm install vue-infinite-list --save
+npm install vue3-infinite-list --save
 ```
 
 ### 使用 [yarn](https://yarnpkg.com/):
 
 ```
-yarn add vue-infinite-list --save
+yarn add vue3-infinite-list
 ```
 
 ### 在应用模块内引入无限滚动组件
 
 ```js
-import { InfiniteListModule } from 'vue-infinite-list';
+import InfiniteList from 'vue3-infinite-list';
 
 ```
 
