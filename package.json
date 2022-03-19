@@ -1,6 +1,6 @@
 {
   "name": "vue3-infinite-list",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "author": "tnfe",
   "license": "MIT",
   "description": "An infinite scrolling list of vue3, of course vue2 can also be used.",
@@ -10,16 +10,19 @@
     "vue3"
   ],
   "private": false,
-  "main": "dist/vue-infinite-list.umd.js",
+  "main": "dist/vue3-infinite-list.es.js",
   "exports": {
     ".": {
-      "import": "./dist/vue-infinite-list.umd.js",
-      "require": "./dist/vue-infinite-list.umd.js"
+      "import": "./dist/vue3-infinite-list.es.js",
+      "require": "./dist/vue3-infinite-list.umd.js"
     }
   },
+  "files": [
+    "dist"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/tnfe/vue-infinite-list"
+    "url": "https://github.com/tnfe/vue3-infinite-list"
   },
   "scripts": {
     "dev": "vite",

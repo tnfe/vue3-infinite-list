@@ -1,7 +1,7 @@
 English | [简体中文](./README.zh-CN.md)
 
 <div align="center" style="margin-bottom: 30px;">
-<img src="https://github.com/tnfe/vue-infinite-list/blob/main/demo/assets/logo-big.png?raw=true" width="500"/>
+<img src="https://github.com/tnfe/vue3-infinite-list/blob/main/demo/assets/logo-big.png?raw=true" width="500"/>
 </div>
 
 #
@@ -15,7 +15,7 @@ English | [简体中文](./README.zh-CN.md)
 - **Vertical** or **Horizontal** lists
 
 
-see full examples on this [demo](https://tnfe.github.io/vue-infinite-list).
+see full examples on this [demo](https://tnfe.github.io/vue3-infinite-list).
 
 ## Getting Started
 
@@ -219,7 +219,7 @@ _\* Width may only be a string when `scrollDirection` is `'vertical'`. Similarly
 
 ## Reporting Issues
 
-Found an issue? Please [report it](https://github.com/tnfe/vue-infinite-list/issues) along with any relevant details to reproduce it.
+Found an issue? Please [report it](https://github.com/tnfe/vue3-infinite-list/issues) along with any relevant details to reproduce it.
 
 ## Acknowledgments
 

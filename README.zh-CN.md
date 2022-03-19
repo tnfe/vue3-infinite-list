@@ -1,7 +1,7 @@
 简体中文 | [English](./README.md)
 
 <div align="center" style="margin-bottom: 30px;">
-<img src="https://github.com/tnfe/vue-infinite-list/blob/main/demo/assets/logo-big.png?raw=true" width="500"/>
+<img src="https://github.com/tnfe/vue3-infinite-list/blob/main/demo/assets/logo-big.png?raw=true" width="500"/>
 </div>
 
 #
@@ -14,7 +14,7 @@
 - **支持固定** 或 **可变** 宽/高
 - **垂直** or **水平** 列表
 
-可以从这个在线[Demo](https://tnfe.github.io/vue-infinite-list)查看更多示例。
+可以从这个在线[Demo](https://tnfe.github.io/vue3-infinite-list)查看更多示例。
 
 ## 起步
 
@@ -217,7 +217,7 @@ _\* width 在 `scrollDirection` 是 `'vertical'`时只能是string类型. 类似
 
 ## 反馈问题
 
-找到bug了? 请在此 [report it](https://github.com/tnfe/vue-infinite-list/issues) 提报，可以详细描述任何有用的信息.
+找到bug了? 请在此 [report it](https://github.com/tnfe/vue3-infinite-list/issues) 提报，可以详细描述任何有用的信息.
 
 ## 致谢
 

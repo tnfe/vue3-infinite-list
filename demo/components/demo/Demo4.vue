@@ -1,7 +1,7 @@
 <template>
   <CtrlBar
     v-model="debug"
-    :link="'https://github.com/tnfe/vue-infinite-list/blob/master/demo/components/demo/Demo4.vue'"
+    :link="'https://github.com/tnfe/vue3-infinite-list/blob/master/demo/components/demo/Demo4.vue'"
   />
 
   <div class="btn-bar">

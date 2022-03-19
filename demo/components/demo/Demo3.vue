@@ -1,7 +1,7 @@
 <template>
   <CtrlBar
     v-model="debug"
-    :link="'https://github.com/tnfe/vue-infinite-list/blob/master/demo/components/demo/Demo3.vue'"
+    :link="'https://github.com/tnfe/vue3-infinite-list/blob/master/demo/components/demo/Demo3.vue'"
   />
 
   <div v-loading="loading" element-loading-text="Simulate Data Loading..." class="vl-con" style="height: 520px">

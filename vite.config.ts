@@ -18,7 +18,7 @@ export default defineConfig({
   build: {
     lib: {
       name,
-      entry: "src/main.ts",
+      entry: "src/index.ts",
     },
     rollupOptions: {
       external: ["vue", "vue-demi"],
