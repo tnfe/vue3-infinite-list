@@ -1,0 +1,54 @@
+{
+  "name": "vue3-infinite-list",
+  "version": "0.2.4",
+  "author": "tnfe",
+  "license": "MIT",
+  "description": "An infinite scrolling list of vue3, of course vue2 can also be used.",
+  "keywords": [
+    "infinite-list",
+    "infinite-scroll",
+    "vue3"
+  ],
+  "private": false,
+  "main": "dist/vue-infinite-list.umd.js",
+  "exports": {
+    ".": {
+      "import": "./dist/vue-infinite-list.umd.js",
+      "require": "./dist/vue-infinite-list.umd.js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tnfe/vue-infinite-list"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "docs": "vite build --config vite.doc.config.js",
+    "serve": "vite preview",
+    "clean": "rd /s /q .\\node_modules",
+    "ri": "npm run clean && pnpm i"
+  },
+  "dependencies": {
+    "vue-demi": "latest"
+  },
+  "peerDependencies": {
+    "@vue/composition-api": "1",
+    "vue": "^2.0.0 || >=3.0.0"
+  },
+  "peerDependenciesMeta": {
+    "@vue/composition-api": {
+      "optional": true
+    }
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.4",
+    "@vue/compiler-sfc": "^3.2.31",
+    "element-plus": "latest",
+    "sass": "latest",
+    "typescript": "latest",
+    "vite": "latest",
+    "vue": "^3.2.31",
+    "vue-router": "^4.0.14"
+  }
+}

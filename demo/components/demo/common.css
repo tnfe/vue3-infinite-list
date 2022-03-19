@@ -1,0 +1,45 @@
+.vl-con {
+  border: 1px solid rgba(0, 0, 0, 0.03);
+  border-radius: 2px;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2),
+    0 1px 5px 0 rgba(0, 0, 0, 0.12);
+  background: #fff;
+}
+
+.li-con {
+  padding: 0 20px;
+  line-height: 50px;
+  color: #333;
+  box-sizing: border-box;
+  border-bottom: 1px solid #ddd;
+}
+
+.ctrl {
+  margin-bottom: 25px;
+}
+.ctrl .title {
+  font-size: 16px;
+  font-weight: bold;
+  color: #777;
+}
+.ctrl .ui {
+  margin-left: 10px;
+}
+
+.li-con-r {
+  border-right: 1px solid #ddd;
+  border-bottom: 0;
+  height: 100%;
+}
+.active {
+  background: #222 !important;
+  border: 5px solid #ff0000;
+  color: #fff;
+}
+
+.linkbtn a {
+  padding: 0;
+  margin: 0;
+  color: rgba(255, 255, 255, 0.87);
+  text-decoration: none;
+}
