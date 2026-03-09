@@ -320,7 +320,7 @@ export default defineComponent({
         oldOffset = null;
         recomputeSizes();
         setDomStyle();
-        setTimeout(scrollRender, 0);
+        scrollRender()
       }
     );
 
